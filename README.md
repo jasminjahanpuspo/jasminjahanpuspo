@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Jasmin Jahan! 👋
 
-<!--
-**jasminjahanpuspo/jasminjahanpuspo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **AI Researcher | Deep Learning Enthusiast**
 
-Here are some ideas to get you started:
+🔬 **Research Interests:**  
+- Computer Vision  
+- Medical Imaging  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Languages & Tools:**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" width="40">
+</p>
+
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-github)  
+
+✨ _"Pushing the boundaries of AI to solve real-world challenges."_
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-github&style=flat&color=blue" alt="Profile Views">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=default" alt="GitHub Streak">
+</p>
