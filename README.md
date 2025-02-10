@@ -14,10 +14,10 @@
 
 💻 **Let's Connect:**  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/jasminjahanpuspo/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40">
   </a>
-  <a href="https://www.kaggle.com/your-kaggle">
+  <a href=" https://www.kaggle.com/jasminpuspo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40">
   </a>
 </p>
