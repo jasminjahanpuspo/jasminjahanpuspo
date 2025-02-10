@@ -1,4 +1,4 @@
-### Assalamualaikum, I'm Jasmin Jahan! 🌸
+### Assalamualaikum, I'm Jasmin Jahan Puspo. 🌸
 
 💡 **AI Researcher | ML Enginner**
 
