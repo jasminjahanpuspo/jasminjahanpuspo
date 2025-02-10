@@ -1,22 +1,28 @@
-### Hi there, I'm Jasmin Jahan! 👋
+### Assalamualaikum, I'm Jasmin Jahan! 🌸
 
-💡 **AI Researcher | Deep Learning Enthusiast**
+💡 **AI Researcher | ML Enginner**
 
-🔬 **Research Interests:**  
+**Research Interests:**  
 - Computer Vision  
 - Medical Imaging  
 
-🛠 **Languages & Tools:**  
+**Languages & Tools:**  
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" width="40">
 </p>
 
-📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-github)  
+💻 **Let's Connect:**  
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40">
+  </a>
+  <a href="https://www.kaggle.com/your-kaggle">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40">
+  </a>
+</p>
 
-✨ _"Pushing the boundaries of AI to solve real-world challenges."_
+🙄 _"I am very close to the deadline."_
 
 ---
 
