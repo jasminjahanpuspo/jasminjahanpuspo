@@ -4,7 +4,8 @@
 
 **Research Interests:**  
 - Computer Vision  
-- Medical Imaging  
+- Medical Imaging
+- Machine Learning 
 
 **Languages & Tools:**  
 <p align="left">
