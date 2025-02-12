@@ -3,8 +3,8 @@
 💡 **AI Researcher | ML Enginner**
 
 **Research Interests:**  
-- Computer Vision  
-- Medical Imaging
+- Medical Imaging 
+- Computer Vision 
 - Machine Learning 
 
 **Languages & Tools:**  
